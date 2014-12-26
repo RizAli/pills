@@ -1,0 +1,3 @@
+ 7181 ttys000    0:00.00 grep chrome
+-rw-r--r--   1 rizcube  staff   1218 24 Dec 16:08 git_notes.txt
+-rw-r--r--   1 rizcube  staff      0 24 Dec 23:26 test.txt
